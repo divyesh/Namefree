@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Indian Baby Names</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_search">Search</string>
+	<string name="babyNames_label">Baby Names</string>
+	 <string name="radio_male">Boy</string>
+    <string name="radio_female">Girl</string>
+</resources>
